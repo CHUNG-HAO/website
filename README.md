@@ -7,4 +7,4 @@
 5. Languages 語言能力 .
 
 
-https://chung-hong-hao.firebaseapp.com/
+https://chung-hong-hao.web.app
